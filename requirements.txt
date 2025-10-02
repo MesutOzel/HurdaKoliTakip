@@ -7,4 +7,3 @@ python-dateutil==2.9.0.post0
 plotly==5.24.1
 pyarrow==21.0.0
 reportlab==4.2.5
-"@ | Set-Content -Encoding UTF8 requirements.txt
