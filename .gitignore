@@ -1,0 +1,9 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+.DS_Store
+"@ | Set-Content -Encoding UTF8 .gitignore
